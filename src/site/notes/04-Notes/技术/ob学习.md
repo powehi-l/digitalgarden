@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-Notes/技术/ob学习/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/04-Notes/技术/ob学习/"}
 ---
 
 
